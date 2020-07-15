@@ -39,4 +39,4 @@ var car3 = "BMW";
  creating an array 
  var array_name = [item1, item2, ...];    
  var cars =["saab", "volvo", "" BMW]; 
- doxument.write(cars[0]); // accessing element in array
+ doxument.write(cars[0]); // accessing element in array 
